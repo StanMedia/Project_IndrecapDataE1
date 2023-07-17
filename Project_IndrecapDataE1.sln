@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndrecapDataE1", "IndrecapDataE1\IndrecapDataE1.csproj", "{51ACF8C4-97CA-4731-8B0F-A37829FFED36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51ACF8C4-97CA-4731-8B0F-A37829FFED36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ACF8C4-97CA-4731-8B0F-A37829FFED36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ACF8C4-97CA-4731-8B0F-A37829FFED36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51ACF8C4-97CA-4731-8B0F-A37829FFED36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D084C8A-AFD7-43B5-BE97-03A58F60D573}
+	EndGlobalSection
+EndGlobal
